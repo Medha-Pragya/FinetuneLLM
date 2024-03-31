@@ -1,1 +1,3 @@
 # FinetuneLLM
+
+Fine-tuning LLM involves the additional training of a pre-existing model, which has previously acquired patterns and features from an extensive dataset, using a smaller, domain-specific dataset. In the context of “LLM Fine-Tuning,” LLM denotes a “Large Language Model,” such as the GPT series by OpenAI. This approach holds significance as training a large language model from the ground up is highly resource-intensive in terms of both computational power and time. Utilizing the existing knowledge embedded in the pre-trained model allows for achieving high performance on specific tasks with substantially reduced data and computational requirements.
